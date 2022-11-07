@@ -1,0 +1,18 @@
+doolnews.com##+js(aeld, contextmenu)
+youtube.com##.ytd-rich-section-renderer.style-scope
+youtube.com###chat
+youtube.com##.ytp-ce-element
+truecopythink.media##.website-ad-img-border
+whatculture.com##.leaderboard-area.transition.theme__background.background-overlap
+###nsfw
+theguardian.com##[id^="sp_message_container"]
+techcrunch.com###tc-ad-leaderboard
+sportskeeda.com##+js(aopr, localStorage)
+m.youtube.com##.reel-shelf-items
+m.youtube.com##.reel-shelf-header
+m.youtube.com##.pivot-bar-item-tab.pivot-shorts
+###nsfw
+twitter.com##+js(cookie-remover, guest_id)
+##.dool_ad
+##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
