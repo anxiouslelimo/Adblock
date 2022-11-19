@@ -18,3 +18,4 @@ www.doolnews.com##.ad668
 ##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
 ##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
 www.theverge.com##.mx-auto.hidden.md\:flex.items-center
+lensmenreviews.com##.attachment-post-thumbnail
