@@ -19,5 +19,5 @@ www.doolnews.com##.ad668
 ##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
 www.theverge.com##.mx-auto.hidden.md\:flex.items-center
 www.theverge.com##.mx-auto.block.md\:hidden
+www.theverge.com##div.flex-auto:nth-of-type(2)
 lensmenreviews.com##.attachment-post-thumbnail
-www.tenforums.com##.chill
