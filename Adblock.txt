@@ -20,3 +20,4 @@ www.doolnews.com##.ad668
 www.theverge.com##.mx-auto.hidden.md\:flex.items-center
 www.theverge.com##.mx-auto.block.md\:hidden
 lensmenreviews.com##.attachment-post-thumbnail
+www.tenforums.com##.chill
