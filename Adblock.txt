@@ -18,3 +18,6 @@ www.doolnews.com##.ad668
 ##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
 www.theverge.com##.mx-auto.block.md\:hidden
 www.theverge.com##div.flex-auto:nth-of-type(2)
+aeon.co##.Modal__Backdrop-sc-14qp01n-1.fyqlvP
+aeon.co##.Modal__Container-sc-14qp01n-0.jmTZwK
+aeon.co##.styled__HeaderWrapper-sc-k4zh5d-0.ezgKzV
