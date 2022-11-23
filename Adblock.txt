@@ -21,3 +21,4 @@ www.theverge.com##div.flex-auto:nth-of-type(2)
 aeon.co##.Modal__Backdrop-sc-14qp01n-1.fyqlvP
 aeon.co##.Modal__Container-sc-14qp01n-0.jmTZwK
 aeon.co##.styled__HeaderWrapper-sc-k4zh5d-0.ezgKzV
+www.doolnews.com###video_ad
