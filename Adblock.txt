@@ -22,3 +22,7 @@ aeon.co##.Modal__Backdrop-sc-14qp01n-1.fyqlvP
 aeon.co##.Modal__Container-sc-14qp01n-0.jmTZwK
 aeon.co##.styled__HeaderWrapper-sc-k4zh5d-0.ezgKzV
 www.doolnews.com###video_ad
+www.searchenginejournal.com##div.mmh-90-wrap.sss_sllo.content-unit
+www.searchenginejournal.com##.gototop-pos.sej-article-content > .content-unit.sss_sllo
+www.searchenginejournal.com##.Top_Header_LeaderBoard-adv-label
+www.searchenginejournal.com##div.mmh-90.m-bot-88.sej-bbb-section.sss_sllo.row
