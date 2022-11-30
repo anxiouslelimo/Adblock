@@ -1,4 +1,7 @@
 doolnews.com##+js(aeld, contextmenu)
+www.doolnews.com##.ad668
+www.doolnews.com##.dool_ad
+www.doolnews.com###video_ad
 youtube.com##.ytd-rich-section-renderer.style-scope
 youtube.com###chat
 youtube.com##.ytp-ce-element
@@ -7,13 +10,12 @@ whatculture.com##.leaderboard-area.transition.theme__background.background-overl
 theguardian.com##[id^="sp_message_container"]
 techcrunch.com###tc-ad-leaderboard
 sportskeeda.com##+js(aopr, localStorage)
+www.sportskeeda.com##.scorecard-widget-container
 m.youtube.com##.reel-shelf-items
 m.youtube.com##.reel-shelf-header
 m.youtube.com##.pivot-bar-item-tab.pivot-shorts
 ###nsfw
 twitter.com##+js(cookie-remover, guest_id)
-www.doolnews.com##.ad668
-##.dool_ad
 ##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
 ##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
 www.theverge.com##.mx-auto.block.md\:hidden
@@ -21,7 +23,6 @@ www.theverge.com##div.flex-auto:nth-of-type(2)
 aeon.co##.Modal__Backdrop-sc-14qp01n-1.fyqlvP
 aeon.co##.Modal__Container-sc-14qp01n-0.jmTZwK
 aeon.co##.styled__HeaderWrapper-sc-k4zh5d-0.ezgKzV
-www.doolnews.com###video_ad
 www.searchenginejournal.com##div.mmh-90-wrap.sss_sllo.content-unit
 www.searchenginejournal.com##.gototop-pos.sej-article-content > .content-unit.sss_sllo
 www.searchenginejournal.com##.Top_Header_LeaderBoard-adv-label
