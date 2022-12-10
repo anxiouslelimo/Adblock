@@ -5,6 +5,7 @@ www.doolnews.com###video_ad
 www.doolnews.com##div.horiz_adv_area
 www.doolnews.com##.dool-ad
 www.doolnews.com##.size-full
+www.doolnews.com##.size-large
 youtube.com##.ytd-rich-section-renderer.style-scope
 youtube.com###chat
 youtube.com##.ytp-ce-element
