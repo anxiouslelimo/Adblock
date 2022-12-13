@@ -10,7 +10,6 @@ youtube.com##.ytd-rich-section-renderer.style-scope
 youtube.com###chat
 youtube.com##.ytp-ce-element
 truecopythink.media##.website-ad-img-border
-whatculture.com##.leaderboard-area.transition.theme__background.background-overlap
 theguardian.com##[id^="sp_message_container"]
 techcrunch.com###tc-ad-leaderboard
 sportskeeda.com##+js(aopr, localStorage)
