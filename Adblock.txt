@@ -31,3 +31,5 @@ www.searchenginejournal.com##.gototop-pos.sej-article-content > .content-unit.ss
 www.searchenginejournal.com##.Top_Header_LeaderBoard-adv-label
 www.searchenginejournal.com##div.mmh-90.m-bot-88.sej-bbb-section.sss_sllo.row
 www.searchenginejournal.com##.row.sej-bbb-section.sss_sllo.mmh-90.SEJ_IN_LOOP_home_d-adv-label
+whatculture.com##.center.top-of-page-area.mobile-area
+
