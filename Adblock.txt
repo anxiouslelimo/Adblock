@@ -33,3 +33,4 @@ www.searchenginejournal.com##div.mmh-90.m-bot-88.sej-bbb-section.sss_sllo.row
 www.searchenginejournal.com##.row.sej-bbb-section.sss_sllo.mmh-90.SEJ_IN_LOOP_home_d-adv-label
 whatculture.com##.center.top-of-page-area.mobile-area
 whatculture.com##.padding-half.app-show.hide.desktop-area
+www.theatlantic.com##.article-content-body.ArticleLayout_article___LmDe > .ArticleInjector_clsAvoider__pXehw
