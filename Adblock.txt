@@ -35,3 +35,4 @@ whatculture.com##.center.top-of-page-area.mobile-area
 whatculture.com##.padding-half.app-show.hide.desktop-area
 www.theatlantic.com##.article-content-body.ArticleLayout_article___LmDe > .ArticleInjector_clsAvoider__pXehw
 www.sportskeeda.com##.betting-offer--discs
+www.sportskeeda.com##.iframe-wrapper
