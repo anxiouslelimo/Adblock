@@ -56,3 +56,4 @@ m.youtube.com##ytm-browse ytm-item-section-renderer ytm-compact-video-renderer:h
 m.youtube.com##ytm-search ytm-compact-video-renderer:has(ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"])
 m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-video-with-context-renderer:has(ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/))
 www.indiatimes.com##.ad-300
+##.is-active.CookieWarning
