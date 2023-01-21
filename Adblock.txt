@@ -37,3 +37,4 @@ www.theatlantic.com##.article-content-body.ArticleLayout_article___LmDe > .Artic
 www.sportskeeda.com##.betting-offer--discs
 www.sportskeeda.com##.iframe-wrapper
 www.sportskeeda.com###video-player-container--
+www.newyorker.com##.QTjpe.MessageBannerWrapper-fyfxvu
