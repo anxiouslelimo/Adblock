@@ -57,3 +57,7 @@ m.youtube.com##ytm-search ytm-compact-video-renderer:has(ytm-thumbnail-overlay-t
 m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-video-with-context-renderer:has(ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/))
 www.indiatimes.com##.ad-300
 www.omgubuntu.co.uk##.is-active.CookieWarning
+www.sportskeeda.com##.header-ad
+www.sportskeeda.com##.mobile-ad-negative-space
+www.sportskeeda.com##.connatix-container
+www.sportskeeda.com##.betting-offer--disks
