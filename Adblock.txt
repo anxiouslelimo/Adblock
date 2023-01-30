@@ -61,3 +61,8 @@ www.sportskeeda.com##.header-ad
 www.sportskeeda.com##.mobile-ad-negative-space
 www.sportskeeda.com##.connatix-container
 www.sportskeeda.com##.betting-offer--disks
+c.bing.com
+c.msn.com
+sb.scorecardresearch.com
+a.nel.cloudflare.com
+browser.events.data.msn.com
