@@ -64,3 +64,5 @@ c.msn.com
 sb.scorecardresearch.com
 a.nel.cloudflare.com
 browser.events.data.msn.com
+||whatculture.com^$inline-script,1p
+whatculture.com##.padding-half.app-show.hide.desktop-area
