@@ -68,4 +68,3 @@ browser.events.data.msn.com
 whatculture.com##.padding-half.app-show.hide.desktop-area
 www.dailyo.in##.prx_ad-wrp
 www.dailyo.in##.lst_arw-dwn
-m.thewire.in##.header_adcode
