@@ -1,3 +1,6 @@
 youtube.com##.ytd-rich-section-renderer.style-scope
 youtube.com###chat
-youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope
+##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+m.youtube.com##.reel-shelf-items
+m.youtube.com##.reel-shelf-header
+m.youtube.com##.pivot-bar-item-tab.pivot-shorts
