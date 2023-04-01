@@ -1,2 +1,3 @@
 youtube.com##.ytd-rich-section-renderer.style-scope
 youtube.com###chat
+youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope
