@@ -1,6 +1,12 @@
+! 2023-04-01 youtube.com
 youtube.com##.ytd-rich-section-renderer.style-scope
 youtube.com###chat
 ##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
 m.youtube.com##.reel-shelf-items
 m.youtube.com##.reel-shelf-header
 m.youtube.com##.pivot-bar-item-tab.pivot-shorts
+
+! 2023-04-01 https://www.doolnews.com
+doolnews.com##div.horiz_adv_area
+doolnews.com##.dool-ad
+doolnews.com##+js(aeld, contextmenu)
