@@ -1,6 +1,7 @@
-! 2023-04-01 youtube.com
+! 2023-04-01 https://www.youtube.com
 youtube.com##.ytd-rich-section-renderer.style-scope
 youtube.com###chat
+youtube.com##.ytp-ce-element
 ##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
 m.youtube.com##.reel-shelf-items
 m.youtube.com##.reel-shelf-header
