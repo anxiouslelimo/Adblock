@@ -10,3 +10,12 @@ m.youtube.com##.pivot-bar-item-tab.pivot-shorts
 doolnews.com##div.horiz_adv_area
 doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
+
+! 2023-04-01 https://aeon.co
+aeon.co##.NLFormInsertFromCMS.eUMlWD
+
+! 2023-04-01 https://www.theatlantic.com
+www.theatlantic.com##.c-non-metered-nudge
+
+! 2023-04-01 https://whatculture.com
+whatculture.com##.section
