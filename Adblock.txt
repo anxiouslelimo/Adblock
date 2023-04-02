@@ -15,9 +15,13 @@ doolnews.com##+js(aeld, contextmenu)
 
 ! 2023-04-01 https://aeon.co
 aeon.co##.NLFormInsertFromCMS.eUMlWD
+aeon.co##.eOLYOV
 
 ! 2023-04-01 https://www.theatlantic.com
 www.theatlantic.com##.c-non-metered-nudge
 
 ! 2023-04-01 https://whatculture.com
 whatculture.com##.section
+
+! 2023-04-02 https://theswaddle.com
+theswaddle.com##.component-newsletter.component-form
