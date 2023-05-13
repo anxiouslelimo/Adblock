@@ -25,3 +25,12 @@ whatculture.com##.section
 
 ! 2023-04-02 https://theswaddle.com
 theswaddle.com##.component-newsletter.component-form
+
+! 2023-05-11 https://www.omgubuntu.co.uk
+www.omgubuntu.co.uk##.is-active.CookieWarning
+
+! 2023-05-12 https://www.doolnews.com
+www.doolnews.com##.dool_ad
+
+
+
