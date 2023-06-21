@@ -34,3 +34,7 @@ www.doolnews.com##.dool_ad
 
 !2023-06-06 https://www.facebook.com
 www.facebook.com##.x1u8a7rm
+
+!2023-06-21 https://www.sportskeeda.com
+www.sportskeeda.com##.primis-container
+
