@@ -94,3 +94,4 @@ m.youtube.com##.standalone-collection-badge a[href^="/hashtag/"]
 m.youtube.com##ytm-video-description-header-renderer button-view-model a[href^="/hashtag/"]
 www.youtube.com###chat:remove()
 www.youtube.com##.yt-reaction-control-panel-overlay-view-model
+www.youtube.com###comments #contents:remove()
