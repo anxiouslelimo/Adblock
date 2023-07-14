@@ -38,3 +38,7 @@ www.facebook.com##.x1u8a7rm
 !2023-06-21 https://www.sportskeeda.com
 www.sportskeeda.com##.primis-container
 
+! 2023-07-14 https://www.thefourthnews.in
+www.thefourthnews.in##.widget-module__widgetWrapper__Rzg0s
+www.thefourthnews.in##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
+www.thefourthnews.in##.mobile-header-layer-one
