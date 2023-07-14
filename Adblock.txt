@@ -95,3 +95,5 @@ m.youtube.com##ytm-video-description-header-renderer button-view-model a[href^="
 www.youtube.com###chat:remove()
 www.youtube.com##.yt-reaction-control-panel-overlay-view-model
 www.youtube.com###comments #contents:remove()
+m.youtube.com##ytm-comments-entry-point-header-renderer
+m.youtube.com##.segmented-buttons
