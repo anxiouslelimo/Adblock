@@ -12,6 +12,7 @@ m.youtube.com##.pivot-bar-item-tab.pivot-shorts
 doolnews.com##div.horiz_adv_area
 doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
+www.doolnews.com###video_ad
 
 ! 2023-04-01 https://aeon.co
 aeon.co##.NLFormInsertFromCMS.eUMlWD
