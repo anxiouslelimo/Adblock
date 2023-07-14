@@ -92,3 +92,4 @@ youtube.com##.ytp-ce-element
 ! 2023-07-14 https://www.theguardian.com
 www.theguardian.com##.top-banner-ad-container
 www.theguardian.com##header
+www.theguardian.com##.ad-slot-container
