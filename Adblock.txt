@@ -42,3 +42,6 @@ www.sportskeeda.com##.primis-container
 www.thefourthnews.in##.widget-module__widgetWrapper__Rzg0s
 www.thefourthnews.in##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
 www.thefourthnews.in##.mobile-header-layer-one
+
+! 2023-07-14 https://truecopythink.media
+truecopythink.media##.frame_wrapper
