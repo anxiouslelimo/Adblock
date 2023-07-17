@@ -93,6 +93,3 @@ youtube.com##.ytp-ce-element
 www.theguardian.com##.top-banner-ad-container
 www.theguardian.com##header
 www.theguardian.com##.ad-slot-container
-
-! 2023-07-16 https://www.theverge.com
-www.theverge.com##.duet--media--embed
