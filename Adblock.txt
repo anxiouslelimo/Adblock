@@ -58,6 +58,17 @@ m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-s
 m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
 m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+youtube.com##ytd-rich-shelf-renderer[is-shorts]
+youtube.com##ytd-reel-shelf-renderer
+youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+m.youtube.com##.reel-shelf-items
+m.youtube.com##.reel-shelf-header
+m.youtube.com##.pivot-bar-item-tab.pivot-shorts
+www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
+www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
+m.youtube.com##.reel-shelf-items
+m.youtube.com##.reel-shelf-header
+m.youtube.com##.pivot-bar-item-tab.pivot-shorts
 
 !Youtube: Filter out mixes and radios
 www.youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
@@ -85,12 +96,9 @@ www.youtube.com##.yt-reaction-control-panel-overlay-view-model
 www.youtube.com###comments #contents:remove()
 m.youtube.com##ytm-comments-entry-point-header-renderer
 m.youtube.com##.segmented-buttons
-www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
-www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
 youtube.com##.ytp-ce-element
-m.youtube.com##.reel-shelf-items
-m.youtube.com##.reel-shelf-header
-m.youtube.com##.pivot-bar-item-tab.pivot-shorts
+
+
 
 ! 2023-07-14 https://www.theguardian.com
 www.theguardian.com##.top-banner-ad-container
