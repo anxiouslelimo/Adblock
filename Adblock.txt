@@ -66,9 +66,6 @@ m.youtube.com##.reel-shelf-header
 m.youtube.com##.pivot-bar-item-tab.pivot-shorts
 www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
 www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
-m.youtube.com##.reel-shelf-items
-m.youtube.com##.reel-shelf-header
-m.youtube.com##.pivot-bar-item-tab.pivot-shorts
 
 !Youtube: Filter out mixes and radios
 www.youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
