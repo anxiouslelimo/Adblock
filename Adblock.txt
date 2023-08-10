@@ -95,8 +95,7 @@ m.youtube.com##ytm-comments-entry-point-header-renderer
 m.youtube.com##.segmented-buttons
 youtube.com##.ytp-ce-element
 youtube.com###comments
-
-
+www.youtube.com###chat
 
 ! 2023-07-14 https://www.theguardian.com
 www.theguardian.com##.top-banner-ad-container
