@@ -104,4 +104,4 @@ www.theguardian.com##.ad-slot-container
 
 !Porn
 domain=aagmaal*.*
-domain=ottmaza.com
+domain=ottmaza.*
