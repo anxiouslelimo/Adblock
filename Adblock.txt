@@ -103,10 +103,9 @@ www.theguardian.com##header
 www.theguardian.com##.ad-slot-container
 
 !Porn
-www.aagmaal.pics
-www.aagmaal.mov
-www.aagmaal.store
-www.uncutmaal.com
-www.uncut.show
-www.aagmaaltube.com
-www.ottmaza.expert
+https://aagmaal.mov
+https://aagmaal.store
+https://uncutmaal.com
+https://uncut.show
+https://aagmaaltube.com
+https://ottmaza.expert
