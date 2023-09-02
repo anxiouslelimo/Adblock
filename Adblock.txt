@@ -103,5 +103,6 @@ www.theguardian.com##header
 www.theguardian.com##.ad-slot-container
 
 !Porn
-domain=aagmaal*.*
-domain=ottmaza.*
+/https:.*(?:\+|\@|\=|\;|\_|\-|\!|\?|\&|\%|\#|\^|\:).*\/\//$script,third-party,domain=aagmaal*.*
+/https:.*(?:\+|\@|\=|\;|\_|\-|\!|\?|\&|\%|\#|\^|\:).*\/\//$script,third-party,domain=ottmaza.*
+/https:.*(?:\+|\@|\=|\;|\_|\-|\!|\?|\&|\%|\#|\^|\:).*\/\//$script,third-party,domain=uncut.show
