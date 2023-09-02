@@ -101,3 +101,9 @@ www.youtube.com###chat
 www.theguardian.com##.top-banner-ad-container
 www.theguardian.com##header
 www.theguardian.com##.ad-slot-container
+
+!Porn
+aagmaal$document,important
+uncutmaal$document,important
+ottmaza$document,important
+aagmaaltube$document,important
