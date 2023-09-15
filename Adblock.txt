@@ -104,3 +104,5 @@ www.theguardian.com##.ad-slot-container
 
 ! 2023-09-04 https://truecopythink.media
 ||truecopythink.media/build/q-725317a4.js$script,1p
+
+###nsfw
