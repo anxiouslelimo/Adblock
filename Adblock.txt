@@ -107,3 +107,5 @@ www.theguardian.com##.ad-slot-container
 
 ###nsfw
 sourcepoint.theguardian.com
+contributions.guardianapis.com
+api.nextgen.guardianapps.co.uk
