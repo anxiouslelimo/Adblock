@@ -163,3 +163,5 @@ plausible.omgapi.org
 referrer.disqus.com
 secure.gaug.es
 stats.wp.com
+srvr.dmvs-apac.com
+js.hs-scripts.com
