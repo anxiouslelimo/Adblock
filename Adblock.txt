@@ -109,7 +109,6 @@ www.theguardian.com##.ad-slot-container
 sourcepoint.theguardian.com
 static.ads-twitter.com
 contributions.guardianapis.com
-12 minutes ago
 api.nextgen.guardianapps.co.uk
 d35xxde4fgg0cx.cloudfront.net
 static.narrativ.com
