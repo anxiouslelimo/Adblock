@@ -106,3 +106,4 @@ www.theguardian.com##.ad-slot-container
 ||truecopythink.media/build/q-725317a4.js$script,1p
 
 ###nsfw
+sourcepoint.theguardian.com
