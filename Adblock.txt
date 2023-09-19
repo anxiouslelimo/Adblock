@@ -166,7 +166,7 @@ srvr.dmvs-apac.com
 js.hs-scripts.com
 
 !Porn
-sxyprn.unblockit.esq
+||sxyprn.unblockit.esq^$all
 justfullporn.unblockit.esq
 sex-videos.link
 pinaynay.org
