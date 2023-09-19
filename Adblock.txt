@@ -157,7 +157,6 @@ api.condenast.io
 cdn.cookielaw.org
 resdit.com
 realtime.services.disqus.com
-sxyprn.unblockit.esq
 personalization.bloomberg.com
 plausible.omgapi.org
 referrer.disqus.com
@@ -167,6 +166,8 @@ srvr.dmvs-apac.com
 js.hs-scripts.com
 
 !Porn
+sxyprn.unblockit.esq
+justfullporn.unblockit.esq
 sex-videos.link
 pinaynay.org
 freeprn.video
