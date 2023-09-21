@@ -3,13 +3,7 @@ doolnews.com##div.horiz_adv_area
 doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
 www.doolnews.com###video_ad
-
-! 2023-04-01 https://aeon.co
-aeon.co##.NLFormInsertFromCMS.eUMlWD
-aeon.co##.eOLYOV
-
-! 2023-04-01 https://www.theatlantic.com
-www.theatlantic.com##.c-non-metered-nudge
+www.doolnews.com##.dool_ad
 
 ! 2023-04-01 https://whatculture.com
 whatculture.com##.section
@@ -19,9 +13,6 @@ theswaddle.com##.component-newsletter.component-form
 
 ! 2023-05-11 https://www.omgubuntu.co.uk
 www.omgubuntu.co.uk##.is-active.CookieWarning
-
-! 2023-05-12 https://www.doolnews.com
-www.doolnews.com##.dool_ad
 
 !2023-06-06 https://www.facebook.com
 www.facebook.com##.x1u8a7rm
@@ -37,6 +28,7 @@ www.thefourthnews.in##.app-ad--story-horizontal.app-ad
 
 ! 2023-07-14 https://truecopythink.media
 truecopythink.media##.frame_wrapper
+||truecopythink.media/build/q-725317a4.js$script,1p
 
 !Youtube: Filter out shorts
 www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
@@ -102,9 +94,6 @@ www.theguardian.com##.top-banner-ad-container
 www.theguardian.com##header
 www.theguardian.com##.ad-slot-container
 
-! 2023-09-04 https://truecopythink.media
-||truecopythink.media/build/q-725317a4.js$script,1p
-
 ###nsfw
 sourcepoint.theguardian.com
 static.ads-twitter.com
@@ -165,4 +154,7 @@ stats.wp.com
 srvr.dmvs-apac.com
 js.hs-scripts.com
 
-scoopwhoop.com##.google-ads-outer.relative
+! 2023-09-21 https://www.theatlantic.com
+www.theatlantic.com##.NonMeteredNudge_root__mBW5s
+! 2023-09-21 https://www.scoopwhoop.com
+www.scoopwhoop.com##.google-ads-outer.relative
