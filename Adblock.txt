@@ -165,4 +165,4 @@ stats.wp.com
 srvr.dmvs-apac.com
 js.hs-scripts.com
 
-##.google-ads-outer.relative
+scoopwhoop.com##.google-ads-outer.relative
