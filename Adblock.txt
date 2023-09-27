@@ -1,9 +1,9 @@
-! 2023-04-01 https://www.doolnews.com
+! 2023-04-01 https://doolnews.com
 doolnews.com##div.horiz_adv_area
 doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
-www.doolnews.com###video_ad
-www.doolnews.com##.dool_ad
+doolnews.com###video_ad
+doolnews.com##.dool_ad
 
 ! 2023-04-01 https://whatculture.com
 whatculture.com##.section
@@ -11,40 +11,40 @@ whatculture.com##.section
 ! 2023-04-02 https://theswaddle.com
 theswaddle.com##.component-newsletter.component-form
 
-! 2023-05-11 https://www.omgubuntu.co.uk
-www.omgubuntu.co.uk##.is-active.CookieWarning
+! 2023-05-11 https://omgubuntu.co.uk
+omgubuntu.co.uk##.is-active.CookieWarning
 
-!2023-06-06 https://www.facebook.com
-www.facebook.com##.x1u8a7rm
+!2023-06-06 https://facebook.com
+facebook.com##.x1u8a7rm
 
-!2023-06-21 https://www.sportskeeda.com
-www.sportskeeda.com##.primis-container
-! 2023-09-22 https://www.sportskeeda.com
-www.sportskeeda.com##.mobile-ad-negative-space 
+!2023-06-21 https://sportskeeda.com
+sportskeeda.com##.primis-container
+! 2023-09-22 https://sportskeeda.com
+sportskeeda.com##.mobile-ad-negative-space 
 
-! 2023-07-14 https://www.thefourthnews.in
-www.thefourthnews.in##.widget-module__widgetWrapper__Rzg0s
-www.thefourthnews.in##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
-www.thefourthnews.in##.mobile-header-layer-one
-www.thefourthnews.in##.app-ad--story-horizontal.app-ad
+! 2023-07-14 https://thefourthnews.in
+thefourthnews.in##.widget-module__widgetWrapper__Rzg0s
+thefourthnews.in##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
+thefourthnews.in##.mobile-header-layer-one
+thefourthnews.in##.app-ad--story-horizontal.app-ad
 
 ! 2023-07-14 https://truecopythink.media
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
 
 !Youtube: Filter out shorts
-www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
-www.youtube.com##ytd-mini-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-mini-guide-entry-renderer)
-www.youtube.com##ytd-browse #dismissible ytd-rich-grid-slim-media[is-short]:upward(ytd-rich-section-renderer)
-www.youtube.com##ytd-browse[page-subtype="home"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-rich-item-renderer)
-www.youtube.com##ytd-browse[page-subtype="subscriptions"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-grid-video-renderer,ytd-rich-item-renderer)
-www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
-www.youtube.com##ytd-watch-next-secondary-results-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-compact-video-renderer,ytd-shelf-renderer)
-www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-reel-shelf-renderer
-www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-item-section-renderer)
-www.youtube.com##ytd-browse[page-subtype="channels"] #contents.ytd-reel-shelf-renderer:upward(ytd-item-section-renderer)
-www.youtube.com##ytd-browse[page-subtype="trending"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
-www.youtube.com##ytd-search #contents ytd-reel-shelf-renderer
+youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
+youtube.com##ytd-mini-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-mini-guide-entry-renderer)
+youtube.com##ytd-browse #dismissible ytd-rich-grid-slim-media[is-short]:upward(ytd-rich-section-renderer)
+youtube.com##ytd-browse[page-subtype="home"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-rich-item-renderer)
+youtube.com##ytd-browse[page-subtype="subscriptions"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-grid-video-renderer,ytd-rich-item-renderer)
+youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+youtube.com##ytd-watch-next-secondary-results-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-compact-video-renderer,ytd-shelf-renderer)
+youtube.com##ytd-watch-next-secondary-results-renderer ytd-reel-shelf-renderer
+youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-item-section-renderer)
+youtube.com##ytd-browse[page-subtype="channels"] #contents.ytd-reel-shelf-renderer:upward(ytd-item-section-renderer)
+youtube.com##ytd-browse[page-subtype="trending"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+youtube.com##ytd-search #contents ytd-reel-shelf-renderer
 m.youtube.com##ytm-reel-shelf-renderer
 m.youtube.com##ytm-pivot-bar-renderer div.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
 m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-video-with-context-renderer)
@@ -58,43 +58,43 @@ youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:n
 m.youtube.com##.reel-shelf-items
 m.youtube.com##.reel-shelf-header
 m.youtube.com##.pivot-bar-item-tab.pivot-shorts
-www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
-www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
+youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
+youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
 
 !Youtube: Filter out mixes and radios
-www.youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
-www.youtube.com##ytd-search ytd-radio-renderer
-www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-compact-radio-renderer
-www.youtube.com##ytd-player div.videowall-endscreen a[data-is-list=true]
+youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
+youtube.com##ytd-search ytd-radio-renderer
+youtube.com##ytd-watch-next-secondary-results-renderer ytd-compact-radio-renderer
+youtube.com##ytd-player div.videowall-endscreen a[data-is-list=true]
 m.youtube.com##ytm-browse ytm-radio-renderer:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search ytm-compact-radio-renderer
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 !YouTube: filter out upcoming videos and streams
-www.youtube.com##ytd-browse ytd-grid-video-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
-www.youtube.com##ytd-browse ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
-www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"]:upward(ytd-item-section-renderer)
+youtube.com##ytd-browse ytd-grid-video-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+youtube.com##ytd-browse ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"]:upward(ytd-item-section-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 !Youtube: Cosmetics
-www.youtube.com###description #info a[href^="/hashtag/"]
-www.youtube.com###super-title
-www.youtube.com##.super-title
+youtube.com###description #info a[href^="/hashtag/"]
+youtube.com###super-title
+youtube.com##.super-title
 m.youtube.com##.standalone-collection-badge a[href^="/hashtag/"]
 m.youtube.com##ytm-video-description-header-renderer button-view-model a[href^="/hashtag/"]
-www.youtube.com###chat:remove()
-www.youtube.com##.yt-reaction-control-panel-overlay-view-model
+youtube.com###chat:remove()
+youtube.com##.yt-reaction-control-panel-overlay-view-model
 youtube.com###comments #contents:remove()
 m.youtube.com##ytm-comments-entry-point-header-renderer
 m.youtube.com##.segmented-buttons
 youtube.com##.ytp-ce-element
 youtube.com###comments
-www.youtube.com###chat
+youtube.com###chat
 
-! 2023-07-14 https://www.theguardian.com
-www.theguardian.com##.top-banner-ad-container
-www.theguardian.com##header
-www.theguardian.com##.ad-slot-container
+! 2023-07-14 https://theguardian.com
+theguardian.com##.top-banner-ad-container
+theguardian.com##header
+theguardian.com##.ad-slot-container
 
 ###nsfw
 sourcepoint.theguardian.com
@@ -137,7 +137,7 @@ cdn.brandmetrics.com
 cdn.permutive.com
 sb.scorecardresearch.com
 cdn.confiant-integrations.net
-www.google-analytics.com
+google-analytics.com
 ophan.theguardian.com
 a.teads.tv
 cdn.adsafeprotected.com
@@ -156,7 +156,7 @@ stats.wp.com
 srvr.dmvs-apac.com
 js.hs-scripts.com
 
-! 2023-09-21 https://www.theatlantic.com
-www.theatlantic.com##.NonMeteredNudge_root__mBW5s
-! 2023-09-21 https://www.scoopwhoop.com
-www.scoopwhoop.com##.google-ads-outer.relative
+! 2023-09-21 https://theatlantic.com
+theatlantic.com##.NonMeteredNudge_root__mBW5s
+! 2023-09-21 https://scoopwhoop.com
+scoopwhoop.com##.google-ads-outer.relative
