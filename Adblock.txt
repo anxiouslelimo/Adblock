@@ -4,6 +4,7 @@ doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
 doolnews.com###video_ad
 doolnews.com##.dool_ad
+doolnews.com##div.content > [href]
 
 ! 2023-04-01 https://whatculture.com
 whatculture.com##.section
