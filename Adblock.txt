@@ -91,6 +91,9 @@ m.youtube.com##.segmented-buttons
 youtube.com##.ytp-ce-element
 youtube.com###comments
 youtube.com###chat
+www.youtube.com###related
+m.youtube.com##ytm-watch ytm-item-section-renderer[data-content-type="related"]
+www.youtube.com##.ytp-endscreen-content 
 
 ! 2023-07-14 https://theguardian.com
 theguardian.com##.top-banner-ad-container
