@@ -32,6 +32,7 @@ thefourthnews.in##.app-ad--story-horizontal.app-ad
 ! 2023-07-14 https://truecopythink.media
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
+||truecopythink.media/build/q-725317a4.js
 
 !Youtube: Filter out shorts
 youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
