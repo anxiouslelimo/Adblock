@@ -164,3 +164,6 @@ js.hs-scripts.com
 theatlantic.com##.NonMeteredNudge_root__mBW5s
 ! 2023-09-21 https://scoopwhoop.com
 scoopwhoop.com##.google-ads-outer.relative
+
+||tranquilcanyon.com^
+||quillkick.com^
