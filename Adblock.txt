@@ -171,6 +171,3 @@ androidpolice.com##.duogaR
 androidpolice.com##.ghwPHX
 androidpolice.com##.bOvWNQ
 /.?xn--./
-||browser.sentry-cdn.com^
-||appmetrica.yandex.ru^
-||data.mistat.rus.xiaomi.com^
