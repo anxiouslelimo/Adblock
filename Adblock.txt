@@ -166,4 +166,12 @@ theatlantic.com##.NonMeteredNudge_root__mBW5s
 scoopwhoop.com##.google-ads-outer.relative
 
 ||tranquilcanyon.com^
-||quillkick.com^
+androidpolice.com##.eGsdXc
+androidpolice.com##.duogaR
+androidpolice.com##.ghwPHX
+androidpolice.com##.bOvWNQ
+https://quillkick.com/v2ldofPBf-ZkhaDwYsjjJoANJra67QwZmzMyGqNycD1ljkUCRgpz7QMA
+/.?xn--./
+||browser.sentry-cdn.com^
+||appmetrica.yandex.ru^
+||data.mistat.rus.xiaomi.com^
