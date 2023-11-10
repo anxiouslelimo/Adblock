@@ -8,7 +8,6 @@ doolnews.com##div.content > [href]
 doolnews.com###video_ad
 doolnews.com##.doolgad
 doolnews.com##.horiz_adv_area
-||doolnews.com/ads^
 doolnews.com##a[style="text-align: center; display: block;margin-bottom: 10px; margin-top: 10px;"]
 
 ! 2023-04-01 https://whatculture.com
