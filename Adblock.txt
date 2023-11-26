@@ -170,9 +170,3 @@ js.hs-scripts.com
 theatlantic.com##.NonMeteredNudge_root__mBW5s
 ! 2023-09-21 https://scoopwhoop.com
 scoopwhoop.com##.google-ads-outer.relative
-
-androidpolice.com##.eGsdXc
-androidpolice.com##.duogaR
-androidpolice.com##.ghwPHX
-androidpolice.com##.bOvWNQ
-/.?xn--./
