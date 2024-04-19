@@ -165,8 +165,18 @@ secure.gaug.es
 stats.wp.com
 srvr.dmvs-apac.com
 js.hs-scripts.com
+! 2024-04-19 https://m.thewire.in
+m.thewire.in###ATD_INR1_M
+m.thewire.in###ATD_INR2_M
+m.thewire.in###ATD_INR3_M
+m.thewire.in###ATD_INR4_M
+m.thewire.in###ATD_INR5_M
+m.thewire.in###ATD_INR6_M
+m.thewire.in###ATD_INR7_M
+m.thewire.in###ATD_EOA_M
 
 ! 2023-09-21 https://theatlantic.com
 theatlantic.com##.NonMeteredNudge_root__mBW5s
 ! 2023-09-21 https://scoopwhoop.com
 scoopwhoop.com##.google-ads-outer.relative
+
