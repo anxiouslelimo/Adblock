@@ -179,5 +179,3 @@ m.thewire.in###ATD_EOA_M
 theatlantic.com##.NonMeteredNudge_root__mBW5s
 ! 2023-09-21 https://scoopwhoop.com
 scoopwhoop.com##.google-ads-outer.relative
-
-variations.brave.com
