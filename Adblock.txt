@@ -1,12 +1,9 @@
 ! 2023-04-01 https://doolnews.com
-doolnews.com##div.horiz_adv_area
 doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
 doolnews.com###video_ad
 doolnews.com##.dool_ad
 doolnews.com##div.content > [href]
-doolnews.com###video_ad
-doolnews.com##.doolgad
 doolnews.com##.horiz_adv_area
 doolnews.com##a[style="text-align: center; display: block;margin-bottom: 10px; margin-top: 10px;"]
 ||assets.doolnews.com^$script
@@ -16,6 +13,8 @@ truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
 ||truecopythink.media/build/q-725317a4.js
 
-
-
-
+! 2023-07-14 https://thefourthnews.in
+thefourthnews.in##.widget-module__widgetWrapper__Rzg0s
+thefourthnews.in##.ad-slot-row-m__ad-Wrapper__cusCS.component-wrapper
+thefourthnews.in##.mobile-header-layer-one
+thefourthnews.in##.app-ad--story-horizontal.app-ad
