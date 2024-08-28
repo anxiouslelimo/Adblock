@@ -103,7 +103,7 @@ www.youtube.com##.ytp-endscreen-content
 
 ! 2023-07-14 https://theguardian.com
 theguardian.com##.top-banner-ad-container
-theguardian.com##header
+//theguardian.com##header
 theguardian.com##.ad-slot-container
 
 ###nsfw
