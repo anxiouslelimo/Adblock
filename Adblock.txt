@@ -3,9 +3,7 @@ doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
 doolnews.com###video_ad
 doolnews.com##.dool_ad
-! doolnews.com##div.content > [href]
 doolnews.com##.horiz_adv_area
-! doolnews.com##a[style="text-align: center; display: block;margin-bottom: 10px; margin-top: 10px;"]
 ||assets.doolnews.com^$script
 doolnews.com##.mid.dool_ad_wrap
 doolnews.com##.dool_ad_wrap
