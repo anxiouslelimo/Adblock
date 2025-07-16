@@ -1,4 +1,3 @@
-! 2023-04-01 https://doolnews.com
 doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
 doolnews.com###video_ad
@@ -7,9 +6,8 @@ doolnews.com##.horiz_adv_area
 ||assets.doolnews.com^$script
 doolnews.com##.mid.dool_ad_wrap
 doolnews.com##.dool_ad_wrap
+doolnews.com##div.mid.dool_ad_wrap
 
-
-! 2023-07-14 https://truecopythink.media
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
 ||truecopythink.media/build/q-725317a4.js
