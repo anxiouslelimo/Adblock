@@ -7,6 +7,7 @@ doolnews.com##.horiz_adv_area
 doolnews.com##.mid.dool_ad_wrap
 doolnews.com##.dool_ad_wrap
 doolnews.com##div.mid.dool_ad_wrap
+||assets.doolnews.com/ads
 
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
