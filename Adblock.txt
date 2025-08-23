@@ -12,3 +12,10 @@ doolnews.com##div.mid.dool_ad_wrap
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
 ||truecopythink.media/build/q-725317a4.js
+
+redlib.pussthecat.org###banner
+
+||www.youtube.com/live_chat$1p
+www.youtube.com###chat-container
+www.youtube.com###teaser-carousel
+www.youtube.com###comments > .ytd-comments.style-scope
