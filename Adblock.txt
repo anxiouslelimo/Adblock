@@ -16,6 +16,6 @@ truecopythink.media##.frame_wrapper
 redlib.pussthecat.org###banner
 
 ||www.youtube.com/live_chat$1p
-www.youtube.com###chat-container
-www.youtube.com###teaser-carousel
-www.youtube.com###comments > .ytd-comments.style-scope
+youtube.com###chat-container
+youtube.com###teaser-carousel
+youtube.com###comments
