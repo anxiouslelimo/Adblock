@@ -20,3 +20,4 @@ youtube.com###chat-container
 youtube.com###teaser-carousel
 youtube.com###comments
 youtube.com##ytd-watch-flexy #secondary
+youtube.com##ytd-browse[page-subtype="home"]
