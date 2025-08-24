@@ -19,3 +19,4 @@ redlib.pussthecat.org###banner
 youtube.com###chat-container
 youtube.com###teaser-carousel
 youtube.com###comments
+youtube.com##ytd-watch-flexy #secondary
