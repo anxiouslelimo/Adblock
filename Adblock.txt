@@ -19,10 +19,4 @@ redlib.pussthecat.org###banner
 youtube.com###chat-container
 youtube.com###teaser-carousel
 youtube.com###comments
-youtube.com##ytd-watch-flexy #secondary
-youtube.com##ytd-browse[page-subtype="home"]
-! home (mobile)
-m.youtube.com##ytm-rich-grid-renderer > .rich-grid-renderer-contents
-m.youtube.com##.chip-bar
-m.youtube.com##.ytVideoMetadataCarouselViewModelHost
 
