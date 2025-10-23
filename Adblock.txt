@@ -8,6 +8,8 @@ doolnews.com##.mid.dool_ad_wrap
 doolnews.com##.dool_ad_wrap
 doolnews.com##div.mid.dool_ad_wrap
 ||assets.doolnews.com/ads
+doolnews.com##.rd-summary-container
+doolnews.com##.adsbygoogle
 
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
