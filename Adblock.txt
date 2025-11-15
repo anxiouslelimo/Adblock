@@ -22,3 +22,4 @@ youtube.com###chat-container
 youtube.com###teaser-carousel
 youtube.com###comments
 
+www.startpage.com##.feedback-serp-container
