@@ -10,6 +10,10 @@ doolnews.com##div.mid.dool_ad_wrap
 ||assets.doolnews.com/ads
 doolnews.com##.rd-summary-container
 doolnews.com##.adsbygoogle
+@@||assets.doolnews.com/ui/js/script.js$script,domain=www.doolnews.com
+@@||assets.doolnews.com/ui/js/popper.min.js$script,domain=www.doolnews.com
+@@||assets.doolnews.com/ui/js/jquery.pplayer.js$script,domain=www.doolnews.com
+@@||assets.doolnews.com/ui/js/jquery.min.js$script,domain=www.doolnews.com
 
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
