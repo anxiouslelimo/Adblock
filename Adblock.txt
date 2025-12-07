@@ -25,5 +25,7 @@ redlib.pussthecat.org###banner
 youtube.com###chat-container
 youtube.com###teaser-carousel
 youtube.com###comments
+youtube.com##.ytp-ce-element
 
-www.startpage.com##.feedback-serp-container
+startpage.com##.feedback-serp-container
+startpage.com##.support-banner
