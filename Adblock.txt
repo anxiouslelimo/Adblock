@@ -29,3 +29,4 @@ youtube.com##.ytp-ce-element
 
 startpage.com##.feedback-serp-container
 startpage.com##.support-banner
+whatculture.com##.section
