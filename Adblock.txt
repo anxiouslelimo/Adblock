@@ -7,7 +7,7 @@ doolnews.com##.horiz_adv_area
 doolnews.com##.mid.dool_ad_wrap
 doolnews.com##.dool_ad_wrap
 doolnews.com##div.mid.dool_ad_wrap
-||assets.doolnews.com/ads
+||assets.doolnews.com/*/ads
 doolnews.com##.rd-summary-container
 doolnews.com##.adsbygoogle
 @@||assets.doolnews.com/ui/js/script.js$script,domain=www.doolnews.com
