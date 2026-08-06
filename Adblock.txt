@@ -30,6 +30,3 @@ startpage.com##.feedback-serp-container
 startpage.com##.support-banner
 whatculture.com##.section
 
-www.theguardian.com##.dcr-kohrs2
-
-
