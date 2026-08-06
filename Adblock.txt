@@ -1,18 +1,13 @@
-doolnews.com##.dool-ad
 doolnews.com##+js(aeld, contextmenu)
+doolnews.com##.dool-ad
 doolnews.com###video_ad
 doolnews.com##.dool_ad
 doolnews.com##.horiz_adv_area
-||assets.doolnews.com^$script
 doolnews.com##.mid.dool_ad_wrap
 doolnews.com##.dool_ad_wrap
 ||assets.doolnews.com/ads
 doolnews.com##.rd-summary-container
 doolnews.com##.adsbygoogle
-@@||assets.doolnews.com/ui/js/script.js$script,domain=www.doolnews.com
-@@||assets.doolnews.com/ui/js/popper.min.js$script,domain=www.doolnews.com
-@@||assets.doolnews.com/ui/js/jquery.pplayer.js$script,domain=www.doolnews.com
-@@||assets.doolnews.com/ui/js/jquery.min.js$script,domain=www.doolnews.com
 
 truecopythink.media##.frame_wrapper
 ||truecopythink.media/build/q-725317a4.js$script,1p
